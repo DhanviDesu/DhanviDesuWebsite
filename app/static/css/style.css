@@ -201,6 +201,12 @@ a.portfolio-link {
     color: #563e91;
 }
 
+.end-list {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
 
 /* Tooltip for copying text */
 
